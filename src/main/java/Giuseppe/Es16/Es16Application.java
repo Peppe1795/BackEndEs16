@@ -1,14 +1,13 @@
-package it.epicode.be.godfather;
+package Giuseppe.Es16;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class GodFatherPizzaApplication {
+public class Es16Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(GodFatherPizzaApplication.class, args);
-
+		SpringApplication.run(Es16Application.class, args);
 	}
 
 }
